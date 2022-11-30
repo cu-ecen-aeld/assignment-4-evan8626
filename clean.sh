@@ -1,2 +1,2 @@
-cd buildroot
+cd buildroot/
 make distclean
